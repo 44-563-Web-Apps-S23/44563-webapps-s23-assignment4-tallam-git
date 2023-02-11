@@ -20,6 +20,11 @@
     color:blue;
 }
 
+.MRS.X:hover{
+    text-shadow:2px 3px 5px green;
+    border: dotted 2px aqua;
+}
+
 .MRS.Y{
     color:deeppink;
 }
