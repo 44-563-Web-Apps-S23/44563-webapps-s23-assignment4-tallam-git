@@ -1,0 +1,25 @@
+.speech {
+    font-family: monospace;
+    font-size: 15px;
+    color: black;
+}
+
+.direction {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: black;
+    background-color: aqua;
+}
+
+.direction:hover{
+    background-color: goldenrod;
+    color: crimson;
+}
+
+.MRS.X{
+    color: darkblue;
+}
+
+.MRS.Y{
+    color:khaki;
+}
