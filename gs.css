@@ -1,12 +1,12 @@
 .speech {
-    font-family: monospace;
-    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 24;
     color: black;
 }
 
 .direction {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 12;
     color: black;
     background-color: aqua;
 }
@@ -17,9 +17,9 @@
 }
 
 .MRS.X{
-    color: darkblue;
+    color:blue;
 }
 
 .MRS.Y{
-    color:khaki;
+    color:deeppink;
 }
