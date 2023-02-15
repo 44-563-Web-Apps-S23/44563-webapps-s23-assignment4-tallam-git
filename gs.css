@@ -27,12 +27,17 @@ body {
 }
 
 .MRS.X:hover{
-    text-shadow:2px 3px 5px green;
+    text-shadow:2px 3px 4px red;
     border: dotted 2px aqua;
 }
 
-.MRS.Y{
-    color:deeppink;
+.MISS.Y{
+     color:deeppink;
+}
+
+.MISS.Y:hover{
+    text-shadow:2px 3px 4px rgb(15, 15, 15);
+    border: dotted 2px orange;
 }
 
 .table{
